@@ -2,6 +2,8 @@
 
 A React application demonstrating **Google Gemini's FileSearch API** - an integrated RAG (Retrieval-Augmented Generation) solution that allows users to upload documents and ask questions about their contents with AI-powered semantic search.
 
+<img width="1159" height="972" alt="image" src="https://github.com/user-attachments/assets/9c15daf0-7d95-4339-afa9-c3cc29b6124a" />
+
 ## Features
 
 - **Semantic Document Search**: Upload PDFs, text files, and other documents to create searchable knowledge bases
